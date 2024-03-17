@@ -1,0 +1,34 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+*.vs
+*.vssscc
+*.suo
+*.cache
+*.user
+*.csproj.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio code files
+.vscode/*
+*.code-workspace
+
+# ReSharper
+.*.dotSettings
+.*.dotSln.user
+
+# Misc
+*.pidb
+*.userprefs
+*.resharper.snippets
