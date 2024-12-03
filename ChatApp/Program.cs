@@ -12,4 +12,5 @@ app.UseSwaggerUI();
 app.UseHttpsRedirection();
 app.MapControllers();
 
+console.write("");
 app.Run();
